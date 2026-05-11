@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="652e4267-fdb4-47b4-9e55-85e54a5f012a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hamburguer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HamburguerBuilder.java" afterDir="false" />
+    <list default="true" id="652e4267-fdb4-47b4-9e55-85e54a5f012a" name="Changes" comment="criação do  ambiente">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Hamburguer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/HamburguerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/HamburguerBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Builder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hamburguer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HamburguerBuilder.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +40,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/lfmis/IdeaProjects/Builder/src/Main.java"
@@ -56,6 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1778519871613</updated>
     </task>
+    <task id="LOCAL-00001" summary="criação do  ambiente">
+      <option name="closed" value="true" />
+      <created>1778528028612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778528028612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="criação do  ambiente" />
+    <option name="LAST_COMMIT_MESSAGE" value="criação do  ambiente" />
   </component>
 </project>
